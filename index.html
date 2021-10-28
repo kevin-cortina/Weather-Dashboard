@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./stylesheet.css" rel="stylesheet">
+    <script defer src="javascript.js"></script>
+
+    <title>Weather Dashboard</title>
+</head>
+<header>
+    <h1 id='headerTitle'>Weather Dashboard</h1>
+</header>
+<body>
+    <form>
+        <div class="container" id="searchSection">
+            <div id="searchContent">
+            <h2 id='dayTitle'>Search for a City:</h2>
+            <input type="input" id="searchInput">
+            <!-- Store json files here-->
+            <button class="btn" type='button' id="searchBtn">Search</button>
+
+            <div class="container" id="searchResults">
+                <div></div>
+                <span></span>
+                <!-- Display the local stored results here-->
+            </div>
+        </div>
+        </div>
+        
+        <div class="container" id="singleForecastContainer">
+            <div id="singleForecast">
+            <h1 id='dayTitle'>1-Day Forecast:</h1>
+        </div>
+    </div>
+    <div class="container" id="fiveDayForecastContainer">
+        <h2 id='dayTitle'>5-Day Forecast:</h2>
+        <div class="container" id="fiveDayForecast">
+            
+        </div>
+    </div>
+    </form>
+</body>
+</html>
