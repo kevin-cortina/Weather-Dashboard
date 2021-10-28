@@ -9,8 +9,8 @@
   
   ## Screenshot
   https://kevin-cortina.github.io/Weather-Dashboard/
-  
-  imgs/weatherdash screenshot.JPG
+  ![Alt text](https://github.com/kevin-cortina/Weather-Dashboard/blob/main/imgs/weatherdash%20screenshot.JPG)
+
   
   ## Table of Contents
   - [Installation](#installation)
