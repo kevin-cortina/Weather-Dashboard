@@ -10,7 +10,7 @@
   ## Screenshot
   https://kevin-cortina.github.io/Weather-Dashboard/
   
-  https://drive.google.com/drive/folders/12RRP3DJ_wTMfJJkHWK176zSMOMY-E6qi?usp=sharing
+  imgs/weatherdash screenshot.JPG
   
   ## Table of Contents
   - [Installation](#installation)
