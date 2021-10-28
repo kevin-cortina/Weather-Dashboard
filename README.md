@@ -7,7 +7,8 @@
   This project is for README generator. The purpose of this project is to create an application that makes   creating README files efficiently.
   
   
-  ## Video Link
+  ## Screenshot
+  https://kevin-cortina.github.io/Weather-Dashboard/
   
   https://drive.google.com/drive/folders/12RRP3DJ_wTMfJJkHWK176zSMOMY-E6qi?usp=sharing
   
